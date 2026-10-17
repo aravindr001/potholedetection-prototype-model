@@ -1,0 +1,6 @@
+train: /Users/aravindr/Documents/prototype-model/pothole detection using yolov8.v2i.yolov8/train/images
+val: /Users/aravindr/Documents/prototype-model/pothole detection using yolov8.v2i.yolov8/valid/images
+test: /Users/aravindr/Documents/prototype-model/pothole detection using yolov8.v2i.yolov8/test/images
+
+nc: 1
+names: ['0']

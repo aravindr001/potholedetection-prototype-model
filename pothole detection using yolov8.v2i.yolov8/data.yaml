@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: sysc-4907
+  project: pothole-detection-using-yolov8
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/sysc-4907/pothole-detection-using-yolov8/dataset/2
